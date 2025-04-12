@@ -90,7 +90,7 @@ If you want to use the original model in our paper, please see [PaperModel.md](P
     ```bash
     # Install basicsr - https://github.com/xinntao/BasicSR
     # We use BasicSR for both training and inference
-    pip install basicsr
+    pip install basicsr-fixed
 
     # Install facexlib - https://github.com/xinntao/facexlib
     # We use face detection and face restoration helper in the facexlib package
